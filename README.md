@@ -1,2 +1,6 @@
 # devops
-by using this we are learning the DevOps e2e Operations 
+learning the DevOps e2e Operations 
+
+de ops
+devops
+devops
